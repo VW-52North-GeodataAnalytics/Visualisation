@@ -1,0 +1,1992 @@
+drivable_area:
+  edge:
+    edge_road_marks:
+      existing_road_marks: null
+      non_existing_road_marks: null
+    shoulder:
+      edge_dimension: null
+      is_drivable: null
+      shape: null
+    solid_barrier:
+      Barrier: null
+      barrier_chain: null
+      beacon_barrier: null
+      beacon_with_light: null
+      cable_barrier: null
+      cone_barrier: null
+      curb_barrier: null
+      fence_barrier: null
+      grating_barrier: null
+      guardrail_antiglare: null
+      guardrail_barrier: null
+      hedge_barrier: null
+      jersey_barrier: null
+      noise_barrier: null
+      railing_barrier: null
+      reflector_post: null
+      snow_pole: null
+      snowbank: null
+      superrail_barrier: null
+      wall_barrier: null
+  fixed_road_structures:
+    street_furniture:
+      advertising_column: null
+      advertising_panel: null
+      bench: null
+      bicycle_rack: null
+      bollard: null
+      booth: null
+      charging_station: null
+      curved_traffic_light_post: null
+      distribution_box: null
+      emergency_phone: null
+      fence: null
+      flagpole: null
+      fuel_pump: null
+      hydrant: null
+      monument: null
+      overhead_gantry: null
+      overhead_gantry_mast: null
+      overhead_line_mast: null
+      overhead_wiring: null
+      phone_box: null
+      phone_stele: null
+      pillar: null
+      pole: null
+      post_box: null
+      railing: null
+      reflector_post: null
+      scaffolding: null
+      speed_camera: null
+      toll_gate: null
+      traffic_light_boom: null
+      traffic_light_catenary: null
+      traffic_light_post: null
+      vending_machine: null
+      waste_container: null
+      well: null
+    street_lightning:
+      catenary_street_lamp: null
+      curved_street_lamp: null
+      indoor_lighting: null
+      pedestrian_crossing_lighting: null
+      street_lamp: null
+      tunnel_lighting: null
+      underpass_lighting: null
+    temporary_road_structure:
+      buildings: null
+      construction_site_detours: null
+      garbage_bin: null
+      road_signage: null
+      road_works: null
+    vegetation:
+      bush: null
+      flowerbed: null
+      hedge: null
+      plant_tub: null
+      raised_bed: null
+      tree: null
+  geometry:
+    horizontal_plane:
+      curvature: null
+      is_curve: null
+      is_straight_line: null
+    longitudinal_plane:
+      down_slope_max_incline: null
+      is_level_plane: null
+      up_slope_max_incline: null
+    sight_distance:
+      decision_sight_distance: null
+      passing_sight_distance: null
+      perception_sight_distance: null
+      stopping_sight_distance: null
+    transverse_plane:
+      crossfall_max_roll_angle: null
+      number_of_lanes_in_ego_direction: null
+      number_of_lanes_in_non: null
+      superelevation_max_roll_angle: null
+      total_road_width: null
+      transverse_plane_type: null
+  junction:
+    junction_feature:
+      channelized: null
+      flared: null
+      simple: null
+    roundabout:
+      compact_roundabout: null
+      double_roundabout: null
+      large_roundabout: null
+      mini_roundabout: null
+      normal_roundabout: null
+      roundabout_number_of_lanes: null
+      roundabout_size: null
+  lane_specification:
+    lane_type:
+      exit:
+        bicycle: null
+        dead_end: null
+        driveway: null
+        indoor: null
+        low_speed: null
+        motorway: null
+        overall: null
+        parking_area: null
+        pedestrian_road: null
+        runaway_truck_ramp_emergency_escape: null
+        rural: null
+        shared_space: null
+        town: null
+        town_arterial: null
+        town_collector: null
+        town_expressway: null
+        town_local: null
+        town_play_street: null
+        town_private: null
+        trunk: null
+        turning_area: null
+        unknown: null
+      go_straight:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 3
+          length: 92.968
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 9
+          length: 1290.005
+        overall:
+          count: 1664
+          length: 72731.513
+        parking_area:
+          count: 2
+          length: 49.955
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 595
+          length: 27507.356
+        shared_space: null
+        town:
+          count: 1472
+          length: 60769.526
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 210
+          length: 7490.887
+        town_expressway:
+          count: 595
+          length: 27507.356
+        town_local:
+          count: 31
+          length: 717.051
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 60
+          length: 6378.096
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 53
+          length: 1471.937
+      merge:
+        bicycle: null
+        dead_end: null
+        driveway: null
+        indoor: null
+        low_speed: null
+        motorway: null
+        overall: null
+        parking_area: null
+        pedestrian_road: null
+        runaway_truck_ramp_emergency_escape: null
+        rural: null
+        shared_space: null
+        town: null
+        town_arterial: null
+        town_collector: null
+        town_expressway: null
+        town_local: null
+        town_play_street: null
+        town_private: null
+        trunk: null
+        turning_area: null
+        unknown: null
+      parking:
+        bicycle: null
+        dead_end: null
+        driveway: null
+        indoor: null
+        low_speed: null
+        motorway: null
+        overall: null
+        parking_area: null
+        pedestrian_road: null
+        runaway_truck_ramp_emergency_escape: null
+        rural: null
+        shared_space: null
+        town: null
+        town_arterial: null
+        town_collector: null
+        town_expressway: null
+        town_local: null
+        town_play_street: null
+        town_private: null
+        trunk: null
+        turning_area: null
+        unknown: null
+      straight_left_turn:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 199
+          length: 8159.753
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 44
+          length: 2397.631
+        shared_space: null
+        town:
+          count: 181
+          length: 7573.015
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 48
+          length: 1949.951
+        town_expressway:
+          count: 44
+          length: 2397.631
+        town_local:
+          count: 7
+          length: 254.442
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 10
+          length: 302.963
+      straight_left_turn_right_turn:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 5
+          length: 209.148
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 4
+          length: 164.498
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 2
+          length: 133.534
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 0
+          length: 0.0
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+      straight_left_turn_right_turn_u_turn:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 0
+          length: 0.0
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 0
+          length: 0.0
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 0
+          length: 0.0
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 0
+          length: 0.0
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+      straight_right_turn:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 1
+          length: 49.503
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 666
+          length: 30252.755
+        parking_area:
+          count: 1
+          length: 21.016
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 214
+          length: 10859.616
+        shared_space: null
+        town:
+          count: 586
+          length: 26685.149
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 134
+          length: 5486.011
+        town_expressway:
+          count: 214
+          length: 10859.616
+        town_local:
+          count: 41
+          length: 1569.557
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 5
+          length: 114.707
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 27
+          length: 1467.995
+      turn_left:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 5
+          length: 163.718
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 1306
+          length: 51324.945
+        parking_area:
+          count: 2
+          length: 37.11
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 301
+          length: 13129.486
+        shared_space: null
+        town:
+          count: 1107
+          length: 44363.201
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 274
+          length: 10855.616
+        town_expressway:
+          count: 301
+          length: 13129.486
+        town_local:
+          count: 74
+          length: 2571.08
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 3
+          length: 75.326
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 76
+          length: 2845.75
+      turn_left_u_turn:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 0
+          length: 0.0
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 0
+          length: 0.0
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 0
+          length: 0.0
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 0
+          length: 0.0
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+      turn_multiple_lefts:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 199
+          length: 7449.939
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 38
+          length: 1817.08
+        shared_space: null
+        town:
+          count: 177
+          length: 6454.139
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 39
+          length: 1530.329
+        town_expressway:
+          count: 38
+          length: 1817.08
+        town_local:
+          count: 3
+          length: 146.998
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 8
+          length: 338.079
+      turn_multiple_rights:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 79
+          length: 2992.29
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 18
+          length: 703.992
+        shared_space: null
+        town:
+          count: 68
+          length: 2448.773
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 14
+          length: 599.586
+        town_expressway:
+          count: 18
+          length: 703.992
+        town_local:
+          count: 2
+          length: 57.454
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+      turn_right:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 6
+          length: 144.286
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 723
+          length: 30421.69
+        parking_area:
+          count: 2
+          length: 56.101
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 159
+          length: 7506.202
+        shared_space: null
+        town:
+          count: 568
+          length: 24554.363
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 140
+          length: 6015.436
+        town_expressway:
+          count: 159
+          length: 7506.202
+        town_local:
+          count: 56
+          length: 1852.306
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 14
+          length: 1096.02
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 45
+          length: 1629.677
+      turn_right_turn_left:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 31
+          length: 1275.446
+        parking_area:
+          count: 1
+          length: 2.991
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 13
+          length: 508.416
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 4
+          length: 226.77
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 2
+          length: 128.054
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 13
+          length: 512.95
+      turn_sharp_left:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 0
+          length: 0.0
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 0
+          length: 0.0
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 0
+          length: 0.0
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 0
+          length: 0.0
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+      turn_sharp_right:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 0
+          length: 0.0
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 0
+          length: 0.0
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 0
+          length: 0.0
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 0
+          length: 0.0
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+      turn_slight_left:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 157
+          length: 6172.99
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 64
+          length: 2893.596
+        shared_space: null
+        town:
+          count: 139
+          length: 5816.039
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 16
+          length: 643.543
+        town_expressway:
+          count: 64
+          length: 2893.596
+        town_local:
+          count: 3
+          length: 55.664
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 4
+          length: 125.907
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 11
+          length: 175.38
+      turn_slight_right:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 9
+          length: 1290.005
+        overall:
+          count: 132
+          length: 9507.522
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 35
+          length: 1705.97
+        shared_space: null
+        town:
+          count: 74
+          length: 3758.529
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 8
+          length: 301.89
+        town_expressway:
+          count: 35
+          length: 1705.97
+        town_local:
+          count: 2
+          length: 33.523
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 30
+          length: 3464.105
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 7
+          length: 133.975
+      u_turn:
+        bicycle:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        driveway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        overall:
+          count: 0
+          length: 0.0
+        parking_area:
+          count: 0
+          length: 0.0
+        pedestrian_road:
+          count: 0
+          length: 0.0
+        runaway_truck_ramp_emergency_escape:
+          count: 0
+          length: 0.0
+        rural:
+          count: 0
+          length: 0.0
+        shared_space: null
+        town:
+          count: 0
+          length: 0.0
+        town_arterial:
+          count: 0
+          length: 0.0
+        town_collector:
+          count: 0
+          length: 0.0
+        town_expressway:
+          count: 0
+          length: 0.0
+        town_local:
+          count: 0
+          length: 0.0
+        town_play_street:
+          count: 0
+          length: 0.0
+        town_private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+        turning_area:
+          count: 0
+          length: 0.0
+        unknown:
+          count: 0
+          length: 0.0
+    lane_usage:
+      lane_dimension:
+        lane_width: null
+        max_lane_height: null
+        max_lane_width: null
+        min_lane_width: null
+      lane_direction_of_travel:
+        left_hand_travel: null
+        right_hand_travel: null
+      lane_feature:
+        protected_lane: null
+        unprotected_lane: null
+      lane_marking:
+        existing_road_marking: null
+        non_existing_road_marking: null
+      lane_speed_limit:
+        allowed_max_speed: null
+        required_min_speed: null
+      mixed_use:
+        is_mixed_use_with_vehicles: null
+        is_mixed_use_with_vulnerable_road_users: null
+      not_permitted:
+        busses: null
+        hazardous_load: null
+        hazardous_load_to_water_bodies: null
+        trucks: null
+        trucks_with_trailers: null
+        vehicles: null
+        vehicles_with_trailers: null
+      on_street_parking:
+        back_in_head_out_straight_parking_on_both_sides:
+          bicycle: null
+          dead_end: null
+          driveway: null
+          indoor: null
+          low_speed: null
+          motorway: null
+          overall: null
+          parking_area: null
+          pedestrian_road: null
+          runaway_truck_ramp_emergency_escape: null
+          rural: null
+          shared_space: null
+          town: null
+          town_arterial: null
+          town_collector: null
+          town_expressway: null
+          town_local: null
+          town_play_street: null
+          town_private: null
+          trunk: null
+          turning_area: null
+          unknown: null
+        back_in_head_out_straight_parking_on_one_side:
+          bicycle: null
+          dead_end: null
+          driveway: null
+          indoor: null
+          low_speed: null
+          motorway: null
+          overall: null
+          parking_area: null
+          pedestrian_road: null
+          runaway_truck_ramp_emergency_escape: null
+          rural: null
+          shared_space: null
+          town: null
+          town_arterial: null
+          town_collector: null
+          town_expressway: null
+          town_local: null
+          town_play_street: null
+          town_private: null
+          trunk: null
+          turning_area: null
+          unknown: null
+        head_in_back_out_diagonally_parking_on_both_sides:
+          bicycle:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          driveway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          overall:
+            count: 2
+            length: 93.097
+          parking_area:
+            count: 0
+            length: 0.0
+          pedestrian_road:
+            count: 0
+            length: 0.0
+          runaway_truck_ramp_emergency_escape:
+            count: 0
+            length: 0.0
+          rural:
+            count: 0
+            length: 0.0
+          shared_space: null
+          town:
+            count: 1
+            length: 31.4
+          town_arterial:
+            count: 0
+            length: 0.0
+          town_collector:
+            count: 1
+            length: 31.4
+          town_expressway:
+            count: 0
+            length: 0.0
+          town_local:
+            count: 1
+            length: 61.697
+          town_play_street:
+            count: 0
+            length: 0.0
+          town_private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+          turning_area:
+            count: 0
+            length: 0.0
+          unknown:
+            count: 0
+            length: 0.0
+        head_in_back_out_diagonally_parking_on_one_side:
+          bicycle:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          driveway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          overall:
+            count: 62
+            length: 6760.074
+          parking_area:
+            count: 2
+            length: 180.575
+          pedestrian_road:
+            count: 0
+            length: 0.0
+          runaway_truck_ramp_emergency_escape:
+            count: 0
+            length: 0.0
+          rural:
+            count: 0
+            length: 0.0
+          shared_space: null
+          town:
+            count: 14
+            length: 1401.784
+          town_arterial:
+            count: 0
+            length: 0.0
+          town_collector:
+            count: 10
+            length: 847.869
+          town_expressway:
+            count: 0
+            length: 0.0
+          town_local:
+            count: 36
+            length: 3494.246
+          town_play_street:
+            count: 0
+            length: 0.0
+          town_private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+          turning_area:
+            count: 0
+            length: 0.0
+          unknown:
+            count: 1
+            length: 1215.574
+        head_in_back_out_straight_parking_on_both_sides:
+          bicycle:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          driveway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          overall:
+            count: 5
+            length: 933.657
+          parking_area:
+            count: 0
+            length: 0.0
+          pedestrian_road:
+            count: 0
+            length: 0.0
+          runaway_truck_ramp_emergency_escape:
+            count: 0
+            length: 0.0
+          rural:
+            count: 0
+            length: 0.0
+          shared_space: null
+          town:
+            count: 1
+            length: 377.233
+          town_arterial:
+            count: 0
+            length: 0.0
+          town_collector:
+            count: 1
+            length: 377.233
+          town_expressway:
+            count: 0
+            length: 0.0
+          town_local:
+            count: 4
+            length: 556.424
+          town_play_street:
+            count: 0
+            length: 0.0
+          town_private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+          turning_area:
+            count: 0
+            length: 0.0
+          unknown:
+            count: 0
+            length: 0.0
+        head_in_back_out_straight_parking_on_one_side:
+          bicycle:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          driveway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 1
+            length: 140.673
+          motorway:
+            count: 0
+            length: 0.0
+          overall:
+            count: 24
+            length: 2199.065
+          parking_area:
+            count: 0
+            length: 0.0
+          pedestrian_road:
+            count: 0
+            length: 0.0
+          runaway_truck_ramp_emergency_escape:
+            count: 0
+            length: 0.0
+          rural:
+            count: 0
+            length: 0.0
+          shared_space: null
+          town:
+            count: 1
+            length: 140.673
+          town_arterial:
+            count: 0
+            length: 0.0
+          town_collector:
+            count: 0
+            length: 0.0
+          town_expressway:
+            count: 0
+            length: 0.0
+          town_local:
+            count: 16
+            length: 1599.692
+          town_play_street:
+            count: 1
+            length: 140.673
+          town_private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+          turning_area:
+            count: 0
+            length: 0.0
+          unknown:
+            count: 7
+            length: 458.7
+        parallel_parking_on_both_side:
+          bicycle:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          driveway:
+            count: 2
+            length: 68.612
+          indoor:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          overall:
+            count: 71
+            length: 10550.132
+          parking_area:
+            count: 0
+            length: 0.0
+          pedestrian_road:
+            count: 0
+            length: 0.0
+          runaway_truck_ramp_emergency_escape:
+            count: 0
+            length: 0.0
+          rural:
+            count: 0
+            length: 0.0
+          shared_space: null
+          town:
+            count: 19
+            length: 2969.649
+          town_arterial:
+            count: 0
+            length: 0.0
+          town_collector:
+            count: 17
+            length: 2844.901
+          town_expressway:
+            count: 0
+            length: 0.0
+          town_local:
+            count: 38
+            length: 5607.44
+          town_play_street:
+            count: 0
+            length: 0.0
+          town_private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+          turning_area:
+            count: 0
+            length: 0.0
+          unknown:
+            count: 11
+            length: 1789.312
+        parallel_parking_on_one_side:
+          bicycle:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          driveway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          overall:
+            count: 186
+            length: 18160.403
+          parking_area:
+            count: 0
+            length: 0.0
+          pedestrian_road:
+            count: 0
+            length: 0.0
+          runaway_truck_ramp_emergency_escape:
+            count: 0
+            length: 0.0
+          rural:
+            count: 6
+            length: 1031.66
+          shared_space: null
+          town:
+            count: 59
+            length: 6211.65
+          town_arterial:
+            count: 0
+            length: 0.0
+          town_collector:
+            count: 26
+            length: 2639.16
+          town_expressway:
+            count: 6
+            length: 1031.66
+          town_local:
+            count: 84
+            length: 8675.198
+          town_play_street:
+            count: 0
+            length: 0.0
+          town_private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+          turning_area:
+            count: 0
+            length: 0.0
+          unknown:
+            count: 12
+            length: 2395.855
+      restricted_lane:
+        HOV_lane: null
+        bicycle_lane: null
+        bus_lane: null
+        delivery_lane: null
+        emergency_lane: null
+        is_pick_up_drop_off_stop: null
+        is_used_by_vehicles: null
+        is_used_by_vulnerable_road_users: null
+        light_rail_lane: null
+        managed_lane: null
+        rail_lane: null
+        restricted_lane: null
+        taxi_lane: null
+        tidal_lane: null
+      restriction_dimensions:
+        max_total_vehicle_weight: null
+        max_total_weight_per_axle: null
+        max_vehicle_height: null
+        max_vehicle_length: null
+        min_vehicle_spacing: null
+      traffic_flow_direction:
+        free_traffic_flow: null
+        one_way_traffic_flow: null
+        two_way_traffic_flow: null
+  road_type:
+    bicycle:
+      count: 632
+      length: 39160.925
+    dead_end:
+      count: 0
+      length: 0.0
+    driveway:
+      count: 3369
+      length: 143985.777
+    indoor:
+      count: 0
+      length: 0.0
+    low_speed:
+      count: 138
+      length: 14147.786
+    motorway:
+      count: 38
+      length: 10262.215
+    parking_area:
+      count: 3216
+      length: 155202.666
+    pedestrian_road:
+      count: 401
+      length: 45098.571
+    runaway_truck_ramp_emergency_escape:
+      count: 0
+      length: 0.0
+    rural:
+      count: 1963
+      length: 128609.301
+    shared_space: null
+    town:
+      count: 6932
+      length: 475131.625
+    town_arterial:
+      count: 0
+      length: 0.0
+    town_collector:
+      count: 1896
+      length: 149455.342
+    town_expressway:
+      count: 1963
+      length: 128609.301
+    town_local:
+      count: 4066
+      length: 532544.736
+    town_play_street:
+      count: 138
+      length: 14147.786
+    town_private:
+      count: 3709
+      length: 257693.477
+    trunk:
+      count: 149
+      length: 25365.863
+    turning_area:
+      count: 0
+      length: 0.0
+    unknown:
+      count: 1199
+      length: 111765.927
+  special_structures:
+    type:
+      car_park:
+        parking_lot: null
+        parking_space: null
+      central_island:
+        channelization_island: null
+        delineator_island: null
+        divisional_island: null
+        refuge_island: null
+      facility:
+        automatic_access_control: null
+        bridge_structure: null
+        car_wash: null
+        charging_station_facility: null
+        ferry_dock_facility: null
+        foot_bridge: null
+        gas_station_facility: null
+        overpass_structure: null
+        pedestrian_crossing: null
+        rail_crossing: null
+        rest_space_facility: null
+        rock_shed: null
+        toll_gate_facility: null
+        toll_plaza_facility: null
+        tunnel_structure: null
+        underpass_structure: null
+      narrow_passage:
+        conveyor_belt: null
+        gate: null
+        loading_bay: null
+        ramp: null
+        unloading_bay: null
+  surface:
+    condition:
+      condition_type:
+        black_ice: null
+        damp: null
+        dry: null
+        icy: null
+        puddels: null
+        rime_rice: null
+        slippery_frost: null
+        snow_covered: null
+        snow_melt: null
+        snow_slush: null
+        standing_water: null
+        sweating_asphalt: null
+        wet: null
+      contamination:
+        animal_excrements: null
+        dirt_contamination: null
+        foam_contamination: null
+        gravel_contamination: null
+        grit_contamination: null
+        hail_contamination: null
+        leaves_contamination: null
+        litter_contamination: null
+        mud_contamination: null
+        oil_contamination: null
+        paint_contamination: null
+        pollen_contamination: null
+        roadkill: null
+        rocks_contamination: null
+        sleet_contamination: null
+        twigs_contamination: null
+        unknown_contamination: null
+    surface_feature:
+      road_marks:
+        bike_box: null
+        botts_dots: null
+        box: null
+        broken: null
+        broken_broken: null
+        broken_solid: null
+        curb_marks: null
+        no_parking_no_waiting: null
+        numbers: null
+        road_marks_quality: null
+        road_studs: null
+        solid: null
+        solid_broken: null
+        solid_solid: null
+        speed_reduction: null
+        stopping_restriction: null
+        symbols: null
+        text: null
+        transverse_speed_reduction: null
+        waiting_restriction: null
+        zebra_crossing: null
+        zigzag: null
+      road_marks_availability:
+        available: null
+        temporary_available: null
+        temporary_unavailable: null
+      road_marks_color:
+        blue_road_marks: null
+        green_road_marks: null
+        orange_road_marks: null
+        red_road_marks: null
+        white_road_marks: null
+        yellow_road_marks: null
+      road_marks_feature:
+        is_reflecting: null
+        is_rumble_stripe_milled_in: null
+        is_rumble_stripe_painted: null
+      road_marks_width:
+        bold_road_marks: null
+        marks_weight: null
+        max_width_of_road_marks: null
+        min_width_of_road_marks: null
+        standard_road_marks: null
+      road_traction:
+        average_traction: null
+        good_traction: null
+        poor_traction: null
+      surface_damages:
+        alligator_cracking: null
+        bleeding: null
+        corrugation: null
+        cracking: null
+        demarcation: null
+        patch_repair: null
+        pothole: null
+        raveling: null
+        rutting: null
+        settlements_and_upheavals: null
+        shoving: null
+      surface_infrastructure:
+        drainage_gutter: null
+        embedded_rails: null
+        expansion_joint: null
+        manhole_cover: null
+        surface_grating: null
+      traffic_calming:
+        speed_bump: null
+        speed_cushion: null
+        speed_hump: null
+        speed_table: null
+    surface_type:
+      loose_surface:
+        dirt: null
+        earth: null
+        fine_gravel: null
+        gravel: null
+        ground: null
+        mud: null
+        salt: null
+        sand: null
+        unpaved: null
+      segmented_surface:
+        brick: null
+        cobblestone: null
+        concrete_plates: null
+        grass_paver: null
+        metal: null
+        paving_stone: null
+        pebblestone: null
+        plastic: null
+        sett: null
+        wood: null
+      uniform_surface:
+        asphalt: null
+        colored_asphalt: null
+        compacted: null
+        concrete: null
+        grass: null
+        ice: null
+        paved: null
+        scraped: null
+zone:
+  dynamic_zone:
+    demonstration: null
+    flooding: null
+    mobile_work_zone: null
+    street_festival: null
+    street_market: null
+  fixed_zone:
+    construction_site: null
+    environmental_zone: null
+    hospital_zone: null
+    industrial_zone: null
+    military_zone: null
+    nightlife_zone: null
+    operational_zone: null
+    private_zones: null
+    retirement_community: null
+    school_zone: null
+    station_airport: null
+    tourist_zone: null
+    traffic_management_zone: null
+    work_zone: null
+  operation_type:
+    dump_bridge: null
+    dynamic_loading: null
+    dynamic_unloading: null
+    reverse_to_dump: null
+    reverse_to_load: null
+    static_loading_dynamic_area: null
+    static_loading_fixed_point: null
+    static_loading_loading_point_position_dynamic: null
+    static_unloading_dynamic_area: null
+    static_unloading_fixed_point: null
+    static_unloading_unloading_point_position_dynamic: null
+    waiting_area: null
+

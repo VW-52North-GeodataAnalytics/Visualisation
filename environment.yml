@@ -1,0 +1,10 @@
+name: Visualisation
+
+dependencies:
+  - python=2.7.*
+  - pip
+  - pip:
+    - yaml
+    - matplotlib
+    - ipywidgets
+    - plotly

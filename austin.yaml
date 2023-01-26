@@ -1,0 +1,1902 @@
+drivable_area:
+  lane_specification:
+    lane_type:
+      go_straight:
+        arterial:
+          count: 404
+          length: 26071.382
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 48
+          length: 2548.538
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 70
+          length: 3908.841
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 3
+          length: 449.273
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 38
+          length: 8251.482
+        other:
+          count: 5
+          length: 336.081
+        overall:
+          count: 509
+          length: 38921.05
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 2
+          length: 466.908
+      straight_left_turn:
+        arterial:
+          count: 231
+          length: 13735.546
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 15
+          length: 536.686
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 13
+          length: 807.46
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 4
+          length: 343.057
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 3
+          length: 308.001
+        other:
+          count: 2
+          length: 106.168
+        overall:
+          count: 258
+          length: 15361.915
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 1
+          length: 19.9
+        trunk:
+          count: 0
+          length: 0.0
+      straight_left_turn_right_turn:
+        arterial:
+          count: 3
+          length: 432.088
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 1
+          length: 151.119
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 1
+          length: 48.979
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 6
+          length: 850.913
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      straight_left_turn_right_turn_u_turn:
+        arterial:
+          count: 0
+          length: 0.0
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 0
+          length: 0.0
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 0
+          length: 0.0
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      straight_right_turn:
+        arterial:
+          count: 138
+          length: 10141.589
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 21
+          length: 1474.826
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 23
+          length: 1233.886
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 1
+          length: 63.186
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 2
+          length: 222.567
+        other:
+          count: 7
+          length: 470.641
+        overall:
+          count: 175
+          length: 12887.07
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_left:
+        arterial:
+          count: 1413
+          length: 89829.808
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 169
+          length: 10068.377
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 521
+          length: 35916.037
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 9
+          length: 465.006
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 4
+          length: 458.415
+        other:
+          count: 7
+          length: 346.993
+        overall:
+          count: 1628
+          length: 103636.528
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 1
+          length: 19.9
+        trunk:
+          count: 4
+          length: 672.296
+      turn_left_u_turn:
+        arterial:
+          count: 7
+          length: 431.414
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 4
+          length: 211.239
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 7
+          length: 431.414
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_multiple_lefts:
+        arterial:
+          count: 121
+          length: 6853.485
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 5
+          length: 377.324
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 57
+          length: 3129.34
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 1
+          length: 47.708
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 131
+          length: 7575.126
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_multiple_rights:
+        arterial:
+          count: 18
+          length: 952.806
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 3
+          length: 176.213
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 3
+          length: 1074.694
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 21
+          length: 2027.5
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_right:
+        arterial:
+          count: 477
+          length: 29050.926
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 53
+          length: 4157.954
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 133
+          length: 7692.158
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 11
+          length: 723.176
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 48
+          length: 8077.943
+        other:
+          count: 6
+          length: 584.525
+        overall:
+          count: 628
+          length: 45561.614
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 1
+          length: 19.9
+        trunk:
+          count: 4
+          length: 679.323
+      turn_right_turn_left:
+        arterial:
+          count: 2
+          length: 144.069
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 4
+          length: 206.696
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 1
+          length: 86.709
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 1
+          length: 168.633
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 9
+          length: 882.802
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_sharp_left:
+        arterial:
+          count: 1
+          length: 39.055
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 1
+          length: 39.055
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 1
+          length: 39.055
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_sharp_right:
+        arterial:
+          count: 3
+          length: 87.364
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 3
+          length: 87.364
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 3
+          length: 87.364
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_slight_left:
+        arterial:
+          count: 32
+          length: 5499.636
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 0
+          length: 0.0
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 1
+          length: 36.403
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 8
+          length: 1983.626
+        other:
+          count: 1
+          length: 302.701
+        overall:
+          count: 60
+          length: 11166.399
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+      turn_slight_right:
+        arterial:
+          count: 8
+          length: 1616.15
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 1
+          length: 243.716
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 2
+          length: 235.3
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 136
+          length: 38540.033
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 166
+          length: 44529.455
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 1
+          length: 274.129
+      u_turn:
+        arterial:
+          count: 128
+          length: 8669.242
+        bicycle:
+          count: 0
+          length: 0.0
+        collector:
+          count: 3
+          length: 169.039
+        dead_end:
+          count: 0
+          length: 0.0
+        expressway:
+          count: 2
+          length: 48.292
+        indoor:
+          count: 0
+          length: 0.0
+        local:
+          count: 0
+          length: 0.0
+        low_speed:
+          count: 0
+          length: 0.0
+        motorway:
+          count: 0
+          length: 0.0
+        other:
+          count: 0
+          length: 0.0
+        overall:
+          count: 133
+          length: 8927.65
+        pedestrian:
+          count: 0
+          length: 0.0
+        play_street:
+          count: 0
+          length: 0.0
+        private:
+          count: 0
+          length: 0.0
+        trunk:
+          count: 0
+          length: 0.0
+    lane_usage:
+      on_street_parking:
+        diagonally_parking_half_on_kerb:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        diagonally_parking_lay_by:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        diagonally_parking_on_kerb:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        diagonally_parking_on_street:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        diagonally_parking_painted_area_only:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        diagonally_parking_street_side:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        head_in_back_out_diagonally_parking_on_both_sides:
+          arterial:
+            count: 1
+            length: 43.592
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 7
+            length: 895.913
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 1
+            length: 43.592
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 8
+            length: 939.505
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        head_in_back_out_diagonally_parking_on_one_side:
+          arterial:
+            count: 24
+            length: 2127.683
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 3
+            length: 303.553
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 2
+            length: 444.85
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 1
+            length: 46.546
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 28
+            length: 2477.782
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        head_in_back_out_straight_parking_on_both_sides:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        head_in_back_out_straight_parking_on_one_side:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_half_on_kerb:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_lay_by:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_on_both_side:
+          arterial:
+            count: 18
+            length: 1860.708
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 67
+            length: 19772.996
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 6
+            length: 877.432
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 5
+            length: 1564.559
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 2
+            length: 165.358
+          overall:
+            count: 92
+            length: 23363.621
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_on_kerb:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_on_one_side:
+          arterial:
+            count: 71
+            length: 6471.16
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 196
+            length: 34941.74
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 44
+            length: 3926.221
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 16
+            length: 3846.998
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 1
+            length: 77.917
+          overall:
+            count: 284
+            length: 45337.815
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_on_street:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_painted_area_only:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        parallel_parking_street_side:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        straight_parking_half_on_kerb:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        straight_parking_lay_by:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        straight_parking_on_kerb:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        straight_parking_on_street:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        straight_parking_painted_area_only:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+        straight_parking_street_side:
+          arterial:
+            count: 0
+            length: 0.0
+          bicycle:
+            count: 0
+            length: 0.0
+          collector:
+            count: 0
+            length: 0.0
+          dead_end:
+            count: 0
+            length: 0.0
+          expressway:
+            count: 0
+            length: 0.0
+          indoor:
+            count: 0
+            length: 0.0
+          local:
+            count: 0
+            length: 0.0
+          low_speed:
+            count: 0
+            length: 0.0
+          motorway:
+            count: 0
+            length: 0.0
+          other:
+            count: 0
+            length: 0.0
+          overall:
+            count: 0
+            length: 0.0
+          pedestrian:
+            count: 0
+            length: 0.0
+          play_street:
+            count: 0
+            length: 0.0
+          private:
+            count: 0
+            length: 0.0
+          trunk:
+            count: 0
+            length: 0.0
+  road_feature:
+    driveway:
+      count: 3402
+      length: 318361.002
+    parking_area:
+      count: 6332
+      length: 626858.602
+    runaway_truck_ramp:
+      count: 0
+      length: 0.0
+    turning_area:
+      count: 0
+      length: 0.0
+  road_type:
+    arterial:
+      count: 6010
+      length: 757555.856
+    bicycle:
+      count: 1483
+      length: 239870.798
+    collector:
+      count: 2273
+      length: 499974.678
+    dead_end:
+      count: 0
+      length: 0.0
+    expressway:
+      count: 1496
+      length: 163587.385
+    indoor:
+      count: 0
+      length: 0.0
+    local:
+      count: 7261
+      length: 1842282.324
+    low_speed:
+      count: 56
+      length: 8195.268
+    motorway:
+      count: 763
+      length: 278170.305
+    other:
+      count: 536
+      length: 116954.444
+    pedestrian:
+      count: 98
+      length: 12101.035
+    play_street:
+      count: 56
+      length: 8195.268
+    private:
+      count: 3720
+      length: 461526.255
+    trunk:
+      count: 58
+      length: 14227.221
+
