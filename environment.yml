@@ -5,7 +5,7 @@ dependencies:
   - python
   - pip
   - pip:
-    - yaml
+    - pyyaml
     - matplotlib
     - ipywidgets
     - plotly
